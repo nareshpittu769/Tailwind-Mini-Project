@@ -2,5 +2,4 @@
 
 - Index.html contain the code for vscode using tailwind.
 
-- Assets folder contain all the images for vs code clone.
-
+- Assets folder contain all the images for vs code clone. ( Assets folder deleted because some mistake)
